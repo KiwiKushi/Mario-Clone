@@ -1,0 +1,9 @@
+﻿  World.cpp
+  Player.cpp
+  Main.cpp
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Animationcpp.cpp
+  Generating Code...
+  Mario.vcxproj -> C:\Users\Fusio\Desktop\Code\CPP\Github\Mario-Clone\x64\Debug\Mario.exe
+  Mario.vcxproj -> C:\Users\Fusio\Desktop\Code\CPP\Github\Mario-Clone\x64\Debug\Mario.pdb (Full PDB)

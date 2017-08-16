@@ -86,7 +86,6 @@ int main() {
 				player.moveX(-10);
 			}
 		}
-		0
 		player.useGravity();
 		player.checkForOutOfBounds();
 

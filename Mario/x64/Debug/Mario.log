@@ -1,9 +1,16 @@
-﻿  World.cpp
-  Player.cpp
-  Main.cpp
+﻿  Main.cpp
 c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Animationcpp.cpp
-  Generating Code...
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fusio\desktop\code\cpp\github\mario-clone\mario\main.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
   Mario.vcxproj -> C:\Users\Fusio\Desktop\Code\CPP\Github\Mario-Clone\x64\Debug\Mario.exe
   Mario.vcxproj -> C:\Users\Fusio\Desktop\Code\CPP\Github\Mario-Clone\x64\Debug\Mario.pdb (Full PDB)

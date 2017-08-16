@@ -13,8 +13,9 @@ public:
 	std::vector<sf::RectangleShape*> obstacles;
 	std::vector<sf::RectangleShape*> viewables;
 	sf::Vector2i screenSize;
+	float gravity;
 
-	World(sf::RectangleShape * background, std::string worldName, sf::Vector2i screenSize);
+	World(sf::RectangleShape * background, std::string worldName, sf::Vector2i screenSize, float gravity);
 	~World();
 };
 
